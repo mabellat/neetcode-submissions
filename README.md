@@ -76,13 +76,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
