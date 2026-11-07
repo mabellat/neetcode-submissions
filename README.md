@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -94,5 +95,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
