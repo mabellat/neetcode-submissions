@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
