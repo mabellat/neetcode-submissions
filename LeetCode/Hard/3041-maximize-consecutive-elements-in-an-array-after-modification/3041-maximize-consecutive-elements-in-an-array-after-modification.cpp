@@ -28,10 +28,25 @@ public:
     int maxSelectedElements(vector<int>& nums) {
         n = nums.size();
         int ans = 1;
-        memo.assign(n, vector<int>(2, -1));
-        sort(nums.begin(), nums.end());
-        for(int i = 0;i<n;i++){
-            ans = max({ans, solve(i, 0, nums), solve(i, 1, nums)});
+        memo.assign(n, vector<int>(2, 1));
+        sort(nums.begin(), nums.end());      
+        for(int i = n-1;i>=0;i--){
+            for(int inc = 0;inc<2;inc++){
+                int val = nums[i]+inc;
+                int len = 1;
+                // 1st : we'll directly find val+1
+                int j = findVal(val+1, i+1, nums);
+                if(j!=-1){
+                    len = max(len, 1+memo[j][0]);
+                }
+                // 2nd : we'll find the val and then inc 1
+                j = findVal(val, i+1, nums);
+                if(j!=-1){
+                    len = max(len, 1+memo[j][1]);
+                }
+                memo[i][inc] = len;
+                ans = max(ans, memo[i][inc]);
+            }
         }
         return ans;
     }
