@@ -87,12 +87,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -134,4 +136,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 <!---LeetCode Topics End-->
