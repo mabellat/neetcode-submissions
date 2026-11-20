@@ -86,11 +86,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
