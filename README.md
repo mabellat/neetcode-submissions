@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -129,4 +130,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 <!---LeetCode Topics End-->
