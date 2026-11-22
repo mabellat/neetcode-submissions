@@ -140,4 +140,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 <!---LeetCode Topics End-->
