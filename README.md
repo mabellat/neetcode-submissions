@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0948-bag-of-tokens](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+| [1328-break-a-palindrome](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/1328-break-a-palindrome/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1328-break-a-palindrome](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/1328-break-a-palindrome/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
