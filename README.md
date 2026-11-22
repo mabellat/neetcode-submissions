@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0948-bag-of-tokens](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/3040-maximum-number-of-operations-with-the-same-score-ii/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0948-bag-of-tokens](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0948-bag-of-tokens](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -144,4 +147,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0948-bag-of-tokens](https://github.com/mabellat/neetcode-submissions/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 <!---LeetCode Topics End-->
